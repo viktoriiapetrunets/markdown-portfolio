@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Favourite books:
+  * Marthians
+  * Painted Veil
+2. Favorite places to eat:
+  * Tarelka
+  * McDonalds
